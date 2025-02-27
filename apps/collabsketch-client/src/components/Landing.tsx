@@ -407,28 +407,28 @@ function Landing() {
               <div className="flex space-x-4">
                 <Link
                   target="blank"
-                  href="https://x.com/vinodpr57196612"
+                  href="https://x.com/Saurabh00700714"
                   className={`${isDark ? "text-gray-400" : "text-gray-600"} hover:text-purple-400 transition-colors`}
                 >
                   <Twitter className="w-5 h-5" />
                 </Link>
                 <Link
                   target="blank"
-                  href="https://www.linkedin.com/in/vinod-prajapati-87604b203/"
+                  href="https://linkedin.com/in/saurabh-yadav-596a5b250/"
                   className={`${isDark ? "text-gray-400" : "text-gray-600"} hover:text-purple-400 transition-colors`}
                 >
                   <Linkedin className="w-5 h-5" />
                 </Link>
                 <Link
                   target="blank"
-                  href="https://www.linkedin.com/in/vinod-prajapati-87604b203/"
+                  href="https://linkedin.com/in/saurabh-yadav-596a5b250/"
                   className={`${isDark ? "text-gray-400" : "text-gray-600"} hover:text-purple-400 transition-colors`}
                 >
                   <Facebook className="w-5 h-5" />
                 </Link>
                 <Link
                   target="blank"
-                  href="https://github.com/codervinod123/CollabSketch"
+                  href="git@github.com:saurabh007007/collab-skill.git"
                   className={`${isDark ? "text-gray-400" : "text-gray-600"} hover:text-purple-400 transition-colors`}
                 >
                   <Github className="w-5 h-5" />
